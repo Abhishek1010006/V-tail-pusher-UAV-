@@ -1,6 +1,5 @@
 # V-Tail Pusher UAV — Design
 
-*Aadity Setu*
 
 ## 02 — Design
 
