@@ -7,6 +7,14 @@
 > *"It is possible to fly without motors, but not without knowledge and skill."*
 > — Wilbur Wright
 
+<p align="center">
+  <img src="assets/photos/main_uav.jpeg" width="700">
+</p>
+
+<p align="center">
+  <em>Figure 1.1 – V-Tail Pusher UAV prototype.</em>
+</p>
+
 ## Overview
 
 This document contains the primary learning resources used during the design and development of the **V-Tail Pusher UAV**. These references were selected to build a strong foundation in fixed-wing aircraft design, aerodynamics, airfoil selection, structural design, and UAV development.
