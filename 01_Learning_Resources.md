@@ -1,7 +1,5 @@
 # V-Tail Pusher UAV — Learning Resources
 
-*Aadity Setu*
-
 ---
 
 # 01 — Learning Resources
