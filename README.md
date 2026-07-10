@@ -2,6 +2,14 @@
 ### Rectangular Wing V-Tail Pusher UAV | Project Documentation
 ### Aerospace Society, BIT Mesra
 
+<p align="center">
+  <img src="assets/photos/main_uav.jpeg" width="700">
+</p>
+
+<p align="center">
+  <em>Figure 0.1 – Rectangular Wing V-Tail Pusher UAV prototype.</em>
+</p>
+
 ---
 
 ## 1. Objective
@@ -101,3 +109,4 @@ The table below sets out the role structure defined for the project. Names and s
 - Airframe fabricated as per CAD model.
 - Proper avionics integration.
 - CG within safe limits.
+- Successful glide and powered flight validation.
