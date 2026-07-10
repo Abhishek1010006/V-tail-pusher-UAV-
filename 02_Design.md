@@ -1,12 +1,15 @@
 # V-Tail Pusher UAV — Design
 
-
 ## 02 — Design
 
 > Aeronautics was neither an industry nor a science; it was a miracle.
 > *- Igor Sikorsky*
 
 ### 2.1 Airfoil Selection and Aerodynamic Characteristics
+
+<p align="center">
+  <img src="assets/photos/airfoil.jpeg" width="450">
+</p>
 
 **Selected airfoil:** Clark Y (cambered)
 
@@ -33,6 +36,10 @@
 
 ### 2.2 V-Tail Pusher Architecture
 
+<p align="center">
+  <img src="assets/photos/v-tail.jpeg" width="450">
+</p>
+
 **Design characteristics:**
 
 1. **Unconventional tail configuration**: two surfaces oriented upward in a "V" pattern, inclined at 120° when viewed from aft, replacing the standard T-tail/cruciform arrangement.
@@ -56,10 +63,10 @@
 
 ### 2.3 Centre of Gravity Calculations
 
-| Section         | Length | Mass   | Position from Reference |
-| --------------- | ------ | ------ | ----------------------- |
-| Forward section | 180 cm | 3205 g | 90 cm                   |
-| Aft section     | 720 cm | 1765 g | 1760 cm from nose       |
+| Section | Length | Mass | Position from Reference |
+|---------|--------|------|-------------------------|
+| Forward section | 180 cm | 3205 g | 90 cm |
+| Aft section | 720 cm | 1765 g | 1760 cm from nose |
 
 Total fuselage length: 900 cm
 
@@ -69,7 +76,7 @@ $x_{CG}$ = $\frac {Σ(m × d)} { Σm}$
 
 Calculation:
 
-$x_{CG}$ = $\frac{330 × 72} {506}$ = 46.9 cm ≈ **47 cm** from the ruddervators
+$x_{CG}$ = $\frac{330 × 72}{506}$ = 46.9 cm ≈ **47 cm** from the ruddervators
 
 ---
 
@@ -87,21 +94,25 @@ $x_{CG}$ = $\frac{330 × 72} {506}$ = 46.9 cm ≈ **47 cm** from the ruddervator
 
 ### 2.5 CAD Model, Dimensions, and Performance Calculations
 
+<p align="center">
+  <img src="assets/photos/dimensions.jpeg" width="650">
+</p>
+
 **Key dimensions:**
 
-| Parameter         | Value    |
-| ----------------- | -------- |
-| Wing Span         | 1.6 m    |
-| Wing Chord        | 0.2 m    |
-| Wing Area         | 0.32 m²  |
-| Aspect Ratio      | 8        |
-| Angle of V-Tail   | 120°     |
-| V-Tail Root Chord | 0.152 m  |
-| V-Tail Tip Chord  | 0.114 m  |
-| V-Tail Length     | 0.6 m    |
-| Fuselage Length   | 0.9 m    |
-| Fuselage Width    | 0.0762 m |
-| Dihedral Angle    | 30°      |
+| Parameter | Value |
+|-----------|--------|
+| Wing Span | 1.6 m |
+| Wing Chord | 0.2 m |
+| Wing Area | 0.32 m² |
+| Aspect Ratio | 8 |
+| Angle of V-Tail | 120° |
+| V-Tail Root Chord | 0.152 m |
+| V-Tail Tip Chord | 0.114 m |
+| V-Tail Length | 0.6 m |
+| Fuselage Length | 0.9 m |
+| Fuselage Width | 0.0762 m |
+| Dihedral Angle | 30° |
 
 **Performance calculations:**
 
