@@ -27,7 +27,6 @@ The primary objective of this project is to design, manufacture, and validate a 
 
 ## 3. Scope
 
-### In Scope
 - Configuration selection
 - Aerodynamic design and stability analysis
 - CAD modelling and structural design
@@ -38,9 +37,6 @@ The primary objective of this project is to design, manufacture, and validate a 
 
 ### Learning Outcomes
 Aircraft design, CAD, aerodynamics, manufacturing, avionics, teamwork, documentation, and testing.
-
-### Out of Scope
-Autonomous navigation, BVLOS missions, custom flight-controller development, and commercial payload operations.
 
 ## 4. Team & Roles
 
