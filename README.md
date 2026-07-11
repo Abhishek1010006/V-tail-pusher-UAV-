@@ -1,4 +1,4 @@
-### Rectangular Wing V-Tail Pusher UAV | Project Documentation
+## Rectangular Wing V-Tail Pusher UAV | Project Documentation
 ### Aerospace Society, BIT Mesra
 
 <p align="center">
