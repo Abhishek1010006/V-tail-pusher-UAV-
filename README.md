@@ -1,4 +1,3 @@
-# 00 — Overview
 ### Rectangular Wing V-Tail Pusher UAV | Project Documentation
 ### Aerospace Society, BIT Mesra
 
