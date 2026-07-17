@@ -8,7 +8,7 @@
 ### 2.1 Airfoil Selection and Aerodynamic Characteristics
 
 <p align="center">
-  <img src="assets/photos/airfoil.jpeg" width="450">
+  <img src="assets/photos/airfoill.jpeg" width="450">
 </p>
 
 **Selected airfoil:** Clark Y (cambered)
